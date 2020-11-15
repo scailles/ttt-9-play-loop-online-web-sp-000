@@ -39,10 +39,7 @@ end
 
 
 def play(board)
-  turn(board) 
-  until
-  board == ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
-end
+ 
 end
 
   
