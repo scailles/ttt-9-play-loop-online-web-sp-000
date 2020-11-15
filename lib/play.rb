@@ -43,6 +43,7 @@ def play(board)
   until
   board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
 end
+end
 
   
 
